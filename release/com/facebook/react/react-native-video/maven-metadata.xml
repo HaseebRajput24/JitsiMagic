@@ -3,11 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-video</artifactId>
   <versioning>
-    <latest>6.0.0-alpha.11-jitsi-17809419</latest>
-    <release>6.0.0-alpha.11-jitsi-17809419</release>
+    <latest>6.0.0-alpha.11-jitsi-17810141</latest>
+    <release>6.0.0-alpha.11-jitsi-17810141</release>
     <versions>
-      <version>6.0.0-alpha.11-jitsi-17809419</version>
+      <version>6.0.0-alpha.11-jitsi-17810141</version>
     </versions>
-    <lastUpdated>20240823053641</lastUpdated>
+    <lastUpdated>20240823073703</lastUpdated>
   </versioning>
 </metadata>
